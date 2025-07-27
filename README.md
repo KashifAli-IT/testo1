@@ -1,10 +1,7 @@
----
-license: mit
-sdk: gradio
----
+
 metadata
 title: FinGenius
-emoji: 🏆
+---
 colorFrom: pink
 colorTo: yellow
 sdk: gradio
@@ -13,4 +10,5 @@ app_file: app.py
 pinned: false
 license: mit
 short_description: GenAI Financial Advisor
+---
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
