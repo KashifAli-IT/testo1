@@ -1,0 +1,11 @@
+gradio==3.50.2
+pandas==2.0.3
+plotly==5.18.0
+python-dateutil==2.8.2
+Pillow==10.1.0
+opencv-python-headless==4.8.1.78  # Headless version for Spaces
+numpy==1.24.4
+pytesseract==0.3.10
+python-dotenv==1.0.0
+twilio==9.0.0
+groq
