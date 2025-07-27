@@ -1,0 +1,28 @@
+2025-07-26 21:08:28,909 - INFO -    Twilio Available: True
+2025-07-26 21:08:28,910 - INFO -    Service Enabled: False
+2025-07-26 21:08:28,912 - INFO -    Tesseract Available: False
+2025-07-26 21:08:28,913 - INFO -    Google Vision Available: False
+2025-07-26 21:08:28,916 - INFO -    PIL Available: False
+2025-07-26 21:08:28,917 - INFO -    OpenCV Available: False
+2025-07-26 21:08:28,917 - INFO - 
+2025-07-26 21:08:28,923 - INFO -    1. Set TWILIO_ACCOUNT_SID and TWILIO_AUTH_TOKEN environment variables
+2025-07-26 21:08:28,923 - INFO -    2. Or modify credentials directly in TwilioWhatsAppService class
+2025-07-26 21:08:28,924 - INFO -    3. Users must send 'join catch-manner' to +14155238886 to activate WhatsApp
+2025-07-26 21:08:28,924 - INFO -    4. Use the same phone number for both WhatsApp activation and app registration
+2025-07-26 21:08:28,924 - INFO -    5. Phone number format: +92XXXXXXXXXX (Pakistan format)
+2025-07-26 21:08:28,925 - INFO - 
+2025-07-26 21:08:28,957 - INFO - 
+2025-07-26 21:08:28,959 - INFO -    • Consistent button sizing across all pages
+2025-07-26 21:08:28,960 - INFO -    • Fixed landing page dimension preservation
+2025-07-26 21:08:28,960 - INFO -    • Enhanced color scheme with CSS variables
+2025-07-26 21:08:28,960 - INFO -    • Improved spacing and typography
+2025-07-26 21:08:28,960 - INFO -    • Better visual feedback for user actions
+2025-07-26 21:08:28,961 - INFO -    • Enhanced mobile responsiveness
+2025-07-26 21:08:28,961 - INFO -    • Modern card-based layout system
+2025-07-26 21:08:28,961 - INFO -    • Professional gradient backgrounds
+2025-07-26 21:08:28,961 - INFO -    • Improved table and data visualization
+2025-07-26 21:08:28,962 - INFO -    • Enhanced form usability and validation
+2025-07-26 21:08:28,962 - INFO - 
+2025-07-26 21:08:30,468 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-26 21:08:31,763 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-26 21:08:33,991 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
